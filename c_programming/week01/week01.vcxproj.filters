@@ -21,7 +21,7 @@
     <ClCompile Include="day02_P30.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="day03_P71.cpp">
+    <ClCompile Include="day03_P71.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
