@@ -1,6 +1,2 @@
 ﻿  day05_P137.c
-C:\workspace\c_programming\week01\day05_P137.c(252,9): warning C4005: 'Tax_Rate': 매크로 재정의
-      C:\workspace\c_programming\week01\day05_P137.c(250,9):
-      'Tax_Rate'의 이전 정의를 참조하십시오.
-  
   week01.vcxproj -> C:\workspace\c_programming\Debug\week01.exe

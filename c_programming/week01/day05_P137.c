@@ -246,7 +246,7 @@ int main(void) {
 
 
 
-#if 01
+#if 0
 #define Tax_Rate 0.11
 double TaxA(int income) {
 #define Tax_Rate 0.03
@@ -259,5 +259,29 @@ double TaxB(int income) {
 int main(void) {
 	printf("Tax_Rate (3%%) : %.1lf\n", TaxA(1000000));
 	printf("Tax_Rate (11%%) : %.1lf\n", TaxB(1000000));
+}
+#endif
+
+
+
+#if 01
+int main(void) {
+	char ch;
+	char brr[30] = { 0 };
+	char* arr = brr;
+	scanf("%s", brr);   // 여기에 엔터가 포함됨.
+	scanf("%c", &ch);   // ch가 새로 입력 안받고 버퍼에 남아있던 엔터를 가져감.  ch는 입력 안받고 건너뜀
+	printf("%s [%c]\n", brr, ch);
+
+	gets(brr);    // gets를 썼기 때문에 gets가 엔터까지 가져감.
+	scanf("%c", &ch);   // 따라서 ch도 입력받을 수 있음. ch가 입력 받으려고 기다리고 있음.
+	printf("%s [%c]\n", brr, ch);
+
+	fgets(brr, sizeof(brr) / sizeof(brr[0]), stdin);  // fgets로 마찬가지로 엔터까지 가져감
+	scanf("%c", &ch);  // 따라서 ch도 입력받을 수 있음.
+	brr[strlen(brr) - 1] = '\0';   // 마지막 스페이스 삭제해줌.
+	printf("%s [%c]\n", brr, ch);
+
+	return 0;
 }
 #endif
