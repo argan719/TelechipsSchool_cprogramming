@@ -24,5 +24,8 @@
     <ClCompile Include="day03_P71.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="day05_P137.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

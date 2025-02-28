@@ -252,7 +252,7 @@ double getMean(int* score, int n) {
 
 
 
-#if 01
+#if 0
 int main(void) {
 	char str[20];  //= "applejam";
 	scanf("%s", str);
@@ -260,3 +260,5 @@ int main(void) {
 	return 0;
 }
 #endif
+
+
