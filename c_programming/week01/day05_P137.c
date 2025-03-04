@@ -264,7 +264,7 @@ int main(void) {
 
 
 
-#if 01
+#if 0
 int main(void) {
 	char ch;
 	char brr[30] = { 0 };
