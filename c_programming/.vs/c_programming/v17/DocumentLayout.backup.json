@@ -11,12 +11,12 @@
       "RelativeMoniker": "D:0:0:{6A4AD9B7-B608-48AC-9D2D-D3CD9FEEE336}|week02\\week02.vcxproj|solutionrelative:week02\\day06.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6A4AD9B7-B608-48AC-9D2D-D3CD9FEEE336}|week02\\week02.vcxproj|C:\\workspace\\c_programming\\week02\\score.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{6A4AD9B7-B608-48AC-9D2D-D3CD9FEEE336}|week02\\week02.vcxproj|solutionrelative:week02\\score.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{6A4AD9B7-B608-48AC-9D2D-D3CD9FEEE336}|week02\\week02.vcxproj|C:\\workspace\\c_programming\\week02\\day06_sub.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{6A4AD9B7-B608-48AC-9D2D-D3CD9FEEE336}|week02\\week02.vcxproj|solutionrelative:week02\\day06_sub.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A4AD9B7-B608-48AC-9D2D-D3CD9FEEE336}|week02\\week02.vcxproj|C:\\workspace\\c_programming\\week02\\score.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{6A4AD9B7-B608-48AC-9D2D-D3CD9FEEE336}|week02\\week02.vcxproj|solutionrelative:week02\\score.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
     }
   ],
   "DocumentGroupContainers": [
@@ -36,14 +36,14 @@
               "RelativeDocumentMoniker": "week02\\day07.c",
               "ToolTip": "C:\\workspace\\c_programming\\week02\\day07.c",
               "RelativeToolTip": "week02\\day07.c",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAsAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
               "WhenOpened": "2025-03-05T03:04:24.954Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "score.txt",
               "DocumentMoniker": "C:\\workspace\\c_programming\\week02\\score.txt",
               "RelativeDocumentMoniker": "week02\\score.txt",
@@ -55,7 +55,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "day06_sub.c",
               "DocumentMoniker": "C:\\workspace\\c_programming\\week02\\day06_sub.c",
               "RelativeDocumentMoniker": "week02\\day06_sub.c",
@@ -63,7 +63,8 @@
               "RelativeToolTip": "week02\\day06_sub.c",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-03-04T05:07:10.895Z"
+              "WhenOpened": "2025-03-04T05:07:10.895Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -73,9 +74,10 @@
               "RelativeDocumentMoniker": "week02\\day06.c",
               "ToolTip": "C:\\workspace\\c_programming\\week02\\day06.c",
               "RelativeToolTip": "week02\\day06.c",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-03-04T01:35:22.5Z"
+              "WhenOpened": "2025-03-04T01:35:22.5Z",
+              "EditorCaption": ""
             }
           ]
         }

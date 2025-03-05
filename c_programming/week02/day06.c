@@ -3,7 +3,7 @@
 #include<string.h>
 #include<stdlib.h>
 
-#if 01
+#if 0
 
 int my_strcmp(const char* s1, const char* s2) {
 	while (*s1 == *s2)
