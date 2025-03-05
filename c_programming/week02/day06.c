@@ -3,7 +3,7 @@
 #include<string.h>
 #include<stdlib.h>
 
-#if 0
+#if 01
 
 int my_strcmp(const char* s1, const char* s2) {
 	while (*s1 == *s2)
@@ -29,12 +29,40 @@ char* my_strncpy(char* dst, const char* src, size_t n)
 		do {
 			if ((*d++ = *s++) == 0) {
 				while (--n != 0)
-				*d++ = 0;
+					*d++ = 0;
 				break;
 			}
 		} while (--n != 0);
 	}
 	return dst;
+}
+
+char* my_strncpy2(char* dst, const char* src, size_t n) {
+	if (n == 0) return dst;
+	char* d = dst;
+	const char* s = src;
+	int flag = 0;
+
+	//printf("\n\n\n%s\n\n\n", d);
+	//printf("\n\n\n%s\n\n\n", s); 
+
+	while (n != 0) {
+		//printf("%c %c ", *d, *s);
+		if (*d == "\n") flag = 1;
+		*d++ = *s++;
+		n--;
+	}
+	if(flag) *d = "\n";
+
+	return dst;
+}
+
+char* my_strncpy3(char* dest, const char* src, int n) {
+
+	char* save = dest;
+	while (n-- && (*dest++ = *src++));
+
+	return save;
 }
 
 char* my_strcpy(char* to, const char* from) {
@@ -62,6 +90,8 @@ int main(void) {
 	printf("%d \n", my_strcmp2("appl", "appl"));  // 0
 	printf("%d \n", my_strcmp2("appl", "apple"));  // -101
 
+
+	printf("%s\n", my_strncpy2(a, "MMMMMMMM", 10));
 	return 0;
 }
 #endif
@@ -150,7 +180,7 @@ int main(void) {
 
 
 // Áß¿ä
-#if 1
+#if 0
 void input_data(int (*arr)[4], int r) {
 	int i, j;
 	int c = sizeof(*arr) / sizeof(arr[0][0]);
@@ -196,14 +226,15 @@ void print_sum_avg(int(*arr)[4], int r, int c) {
 int get_sum(int* arr, int n) {
 	int sum = 0;
 	for (int i = 0; i < n; i++) {
-		sum += arr[i];
+		sum += arr[i]; 
 	}
 	return sum;
 }
 void print_sum_avg2(int(*arr)[4], int r, int c) {
 	int i, j, sum;
 	for (i = 0; i < 3; ++i) {
-		sum = get_sum(arr, r * c);
+		//sum = get_sum(arr, r * c);
+		sum = get_sum(arr + i, c);  // °¢ ÇàÀÇ ½ÃÀÛ ÁÖ¼Ò¸¦ º¸³¿
 		printf("ÃÑÁ¡: %d, Æò±Õ : %.2f\n", sum, sum / 4.0);
 	}
 }
