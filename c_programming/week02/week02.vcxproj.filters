@@ -21,8 +21,19 @@
     <ClCompile Include="day06_sub.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="day08.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="mylib.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="score.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="mylib.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>

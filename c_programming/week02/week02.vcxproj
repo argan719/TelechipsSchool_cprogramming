@@ -129,9 +129,14 @@
   <ItemGroup>
     <ClCompile Include="day06.c" />
     <ClCompile Include="day06_sub.c" />
+    <ClCompile Include="day08.c" />
+    <ClCompile Include="mylib.c" />
   </ItemGroup>
   <ItemGroup>
     <Text Include="score.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="mylib.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
