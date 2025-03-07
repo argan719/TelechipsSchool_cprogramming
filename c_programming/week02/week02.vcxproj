@@ -130,6 +130,7 @@
     <ClCompile Include="day06.c" />
     <ClCompile Include="day06_sub.c" />
     <ClCompile Include="day08.c" />
+    <ClCompile Include="day09_P216.c" />
     <ClCompile Include="mylib.c" />
   </ItemGroup>
   <ItemGroup>

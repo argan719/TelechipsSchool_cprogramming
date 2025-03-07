@@ -260,7 +260,7 @@ int main(void) {
 
 
 // 함수 포인터 사용 후 - (+ 구조체)
-#if 01
+#if 0
 #define N (7)
 #include "mylib.h"
 typedef struct {

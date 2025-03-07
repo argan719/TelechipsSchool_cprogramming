@@ -1,3 +1,2 @@
-﻿  day08.c
-C:\workspace\c_programming\week02\day08.c(274,7): warning C4133: '초기화 중': 'div_t (__cdecl *)(int,int)'과(와) 'int (__cdecl *)(int,int)' 사이의 형식이 호환되지 않습니다.
+﻿  day09_P216.c
   week02.vcxproj -> C:\workspace\c_programming\Debug\week02.exe

@@ -27,6 +27,9 @@
     <ClCompile Include="mylib.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="day09_P216.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="score.txt" />

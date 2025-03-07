@@ -3,16 +3,24 @@
   "WorkspaceRootPath": "C:\\workspace\\c_programming\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{6A4AD9B7-B608-48AC-9D2D-D3CD9FEEE336}|week02\\week02.vcxproj|C:\\workspace\\c_programming\\week02\\day08.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{6A4AD9B7-B608-48AC-9D2D-D3CD9FEEE336}|week02\\week02.vcxproj|solutionrelative:week02\\day08.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{6A4AD9B7-B608-48AC-9D2D-D3CD9FEEE336}|week02\\week02.vcxproj|C:\\workspace\\c_programming\\week02\\day09_P216.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6A4AD9B7-B608-48AC-9D2D-D3CD9FEEE336}|week02\\week02.vcxproj|solutionrelative:week02\\day09_P216.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A4AD9B7-B608-48AC-9D2D-D3CD9FEEE336}|week02\\week02.vcxproj|C:\\workspace\\c_programming\\week02\\mylib.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6A4AD9B7-B608-48AC-9D2D-D3CD9FEEE336}|week02\\week02.vcxproj|solutionrelative:week02\\mylib.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{6A4AD9B7-B608-48AC-9D2D-D3CD9FEEE336}|week02\\week02.vcxproj|C:\\workspace\\c_programming\\week02\\mylib.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{6A4AD9B7-B608-48AC-9D2D-D3CD9FEEE336}|week02\\week02.vcxproj|solutionrelative:week02\\mylib.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6A4AD9B7-B608-48AC-9D2D-D3CD9FEEE336}|week02\\week02.vcxproj|C:\\workspace\\c_programming\\week02\\mylib.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{6A4AD9B7-B608-48AC-9D2D-D3CD9FEEE336}|week02\\week02.vcxproj|solutionrelative:week02\\mylib.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{6A4AD9B7-B608-48AC-9D2D-D3CD9FEEE336}|week02\\week02.vcxproj|C:\\workspace\\c_programming\\week02\\day08.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6A4AD9B7-B608-48AC-9D2D-D3CD9FEEE336}|week02\\week02.vcxproj|solutionrelative:week02\\day08.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A4AD9B7-B608-48AC-9D2D-D3CD9FEEE336}|week02\\week02.vcxproj|C:\\workspace\\c_programming\\week02\\score.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{6A4AD9B7-B608-48AC-9D2D-D3CD9FEEE336}|week02\\week02.vcxproj|solutionrelative:week02\\score.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\workspace\\c_programming\\week02\\day07.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
@@ -25,10 +33,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{6A4AD9B7-B608-48AC-9D2D-D3CD9FEEE336}|week02\\week02.vcxproj|C:\\workspace\\c_programming\\week02\\day06.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{6A4AD9B7-B608-48AC-9D2D-D3CD9FEEE336}|week02\\week02.vcxproj|solutionrelative:week02\\day06.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6A4AD9B7-B608-48AC-9D2D-D3CD9FEEE336}|week02\\week02.vcxproj|C:\\workspace\\c_programming\\week02\\score.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{6A4AD9B7-B608-48AC-9D2D-D3CD9FEEE336}|week02\\week02.vcxproj|solutionrelative:week02\\score.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,50 +42,63 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
+              "Title": "day09_P216.c",
+              "DocumentMoniker": "C:\\workspace\\c_programming\\week02\\day09_P216.c",
+              "RelativeDocumentMoniker": "week02\\day09_P216.c",
+              "ToolTip": "C:\\workspace\\c_programming\\week02\\day09_P216.c",
+              "RelativeToolTip": "week02\\day09_P216.c",
+              "ViewState": "AgIAAEUAAAAAAAAAAAAAAGwAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-03-07T00:03:28.897Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "mylib.h",
               "DocumentMoniker": "C:\\workspace\\c_programming\\week02\\mylib.h",
               "RelativeDocumentMoniker": "week02\\mylib.h",
               "ToolTip": "C:\\workspace\\c_programming\\week02\\mylib.h",
               "RelativeToolTip": "week02\\mylib.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAXAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2025-03-06T08:17:39.006Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "mylib.c",
               "DocumentMoniker": "C:\\workspace\\c_programming\\week02\\mylib.c",
               "RelativeDocumentMoniker": "week02\\mylib.c",
               "ToolTip": "C:\\workspace\\c_programming\\week02\\mylib.c",
               "RelativeToolTip": "week02\\mylib.c",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAOAAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
               "WhenOpened": "2025-03-06T08:15:41.673Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "day08.c",
               "DocumentMoniker": "C:\\workspace\\c_programming\\week02\\day08.c",
               "RelativeDocumentMoniker": "week02\\day08.c",
-              "ToolTip": "C:\\workspace\\c_programming\\week02\\day08.c*",
-              "RelativeToolTip": "week02\\day08.c*",
-              "ViewState": "AgIAAAQBAAAAAAAAAAAAABMBAAAQAAAAAAAAAA==",
+              "ToolTip": "C:\\workspace\\c_programming\\week02\\day08.c",
+              "RelativeToolTip": "week02\\day08.c",
+              "ViewState": "AgIAAMMAAAAAAAAAAAAAANEAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
               "WhenOpened": "2025-03-06T00:22:44.837Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 4,
               "Title": "score.txt",
               "DocumentMoniker": "C:\\workspace\\c_programming\\week02\\score.txt",
               "RelativeDocumentMoniker": "week02\\score.txt",
@@ -89,11 +106,12 @@
               "RelativeToolTip": "week02\\score.txt",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
-              "WhenOpened": "2025-03-04T07:27:06.431Z"
+              "WhenOpened": "2025-03-04T07:27:06.431Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "day06_sub.c",
               "DocumentMoniker": "C:\\workspace\\c_programming\\week02\\day06_sub.c",
               "RelativeDocumentMoniker": "week02\\day06_sub.c",
@@ -105,7 +123,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "day06.c",
               "DocumentMoniker": "C:\\workspace\\c_programming\\week02\\day06.c",
               "RelativeDocumentMoniker": "week02\\day06.c",
@@ -117,7 +135,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "day07.c",
               "DocumentMoniker": "C:\\workspace\\c_programming\\week02\\day07.c",
               "RelativeDocumentMoniker": "week02\\day07.c",
